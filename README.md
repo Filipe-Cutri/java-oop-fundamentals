@@ -1,44 +1,68 @@
-# Exercícios Introdutórios de POO
+# Java OOP Fundamentals ☕
 
-Este repositório contém uma lista de exercícios introdutórios de Programação Orientada a Objetos (POO), abordando conceitos fundamentais da paradigma.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Estrutura do Repositório
-
-- **src/**: Contém os arquivos com os exercícios resolvidos.
-- **.idea/**: Diretório de configuração do projeto (gerado automaticamente pelo IntelliJ IDEA).
-- **.gitignore**: Arquivo para excluir arquivos desnecessários do controle de versão.
-- **Exercicios_Introdutorios_POO.iml**: Arquivo de configuração do IntelliJ IDEA.
-
-## Tecnologias Utilizadas
-
-- Linguagem: Java
-- IDE: IntelliJ IDEA (recomendado, mas pode ser utilizado em outras IDEs compatíveis)
-
-## Conceitos Abordados
-
-Os exercícios práticos neste repositório cobrem:
-- Declaração de classes e objetos
-- Encapsulamento (modificadores de acesso, getters e setters)
-- Herança e polimorfismo
-- Construtores
-- Sobrecarga de métodos
-
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Filipe-Cutri/NOME_DO_REPOSITORIO.git
-   ```
-2. Abra o projeto em sua IDE preferida (recomendado IntelliJ IDEA).
-3. Compile e execute os arquivos desejados dentro da pasta `src/`.
-
-## Contribuição
-
-Se desejar contribuir, sinta-se à vontade para abrir um pull request ou relatar problemas na aba de *Issues*.
-
-## Autor
-
-[Filipe Cutri](https://github.com/Filipe-Cutri)
+Repositório dedicado ao aprendizado e consolidação dos pilares da Programação Orientada a Objetos em Java.
 
 ---
 
+🔗 **Quick access:**  
+[Português (Brasil)](#-português-brasil) | [🇺🇸 English](#-english)
+
+---
+
+## 🇧🇷 Português (Brasil)
+
+### 📚 Sobre
+Este repositório contém exercícios introdutórios de Programação Orientada a Objetos (POO) em Java. O objetivo principal é construir uma base sólida para o desenvolvimento de aplicações estruturadas, manuteníveis e escaláveis.
+
+### 🧠 Conceitos Abordados
+
+
+* **Classes e Objetos:** Estrutura base e instanciação.
+* **Encapsulamento:** Proteção de dados com modificadores de acesso (`private`, `protected`, `public`) e métodos `getters/setters`.
+* **Construtores:** Inicialização de objetos e sobrecarga de construtores.
+* **Herança:** Reutilização de código e hierarquia entre classes.
+* **Polimorfismo:** Capacidade de um objeto ser referenciado de várias formas.
+* **Sobrecarga de Métodos:** Múltiplas assinaturas para o mesmo comportamento.
+
+---
+
+## 🇺🇸 English
+
+### 📚 About
+This repository contains introductory exercises on Object-Oriented Programming (OOP) in Java. The main goal is to build a solid foundation for developing structured, maintainable, and scalable applications.
+
+### 🧠 Covered Concepts
+* **Classes and Objects:** Base structure and instantiation.
+* **Encapsulation:** Data protection using access modifiers and `getters/setters`.
+* **Constructors:** Object initialization and constructor overloading.
+* **Inheritance:** Code reuse and class hierarchy.
+* **Polymorphism:** The ability of an object to be referenced in multiple ways.
+* **Method Overloading:** Multiple signatures for the same behavior.
+
+---
+
+## 📁 Estrutura do Repositório / Repository Structure
+
+| Pasta/Arquivo | Descrição |
+| :--- | :--- |
+| `src/` | Contém o código-fonte dos exercícios resolvidos. |
+| `.idea/` | Configurações de projeto específicas do IntelliJ IDEA. |
+| `.gitignore` | Arquivos e pastas ignorados pelo controle de versão. |
+| `*.iml` | Arquivo de módulo do IntelliJ. |
+
+---
+
+## 🛠️ Tecnologias / Technologies
+* **Java JDK 11+**
+* **IntelliJ IDEA** (Recomendado/Recommended)
+
+---
+
+## 🚀 Como Executar / How to Run
+
+1. **Clone o repositório / Clone the repo:**
+   ```bash
+   git clone [https://github.com/Filipe-Cutri/java-oop-fundamentals.git](https://github.com/Filipe-Cutri/java-oop-fundamentals.git)
