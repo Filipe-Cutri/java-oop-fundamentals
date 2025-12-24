@@ -65,4 +65,4 @@ This repository contains introductory exercises on Object-Oriented Programming (
 
 1. **Clone o repositório / Clone the repo:**
    ```bash
-   git clone [https://github.com/Filipe-Cutri/java-oop-fundamentals.git](https://github.com/Filipe-Cutri/java-oop-fundamentals.git)
+   git clone https://github.com/Filipe-Cutri/java-oop-fundamentals.git
